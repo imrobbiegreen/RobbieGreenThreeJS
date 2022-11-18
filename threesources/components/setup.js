@@ -1,0 +1,1 @@
+let name1="Bob",name2="Alice",name3="Charlie";export{name1,name2,name3};
