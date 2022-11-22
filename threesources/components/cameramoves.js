@@ -1,1 +1,0 @@
-import*as THREE from"three";import gsap from"gsap";import{ScrollTrigger}from"gsap/ScrollTrigger";function goToSection2(o){const r=o;gsap.to(r.position,{x:1,y:16.76,z:2.5,duration:3,wait:1}),gsap.to(controls.target,{x:0,y:17,z:5,duration:4})}export{goToSection2};
